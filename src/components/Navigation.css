@@ -1,0 +1,23 @@
+div.Nav{
+    display:flex;
+    justify-content:flex-end;
+    align-items: center;
+    min-height: 10vh;
+    
+}
+
+.ul {
+    overflow-x:hidden;
+    white-space:nowrap; 
+    height: 1em;
+    width: 100%;
+
+}
+
+.nav-links {
+   
+    display: inline-block;
+    margin: 5px;
+    margin: 10px;
+
+}
